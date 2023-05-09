@@ -1,2 +1,2 @@
 # ejercicios2cohorte5
-ejercicio 2
+introduccion a la consola
